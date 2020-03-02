@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Abril Fatface'; 
+}
+
+.header{
+   text-align: center;
+   font-size: 80px;
+    background-color:rgb(21, 199, 21);
+ color: ivory;
+ padding: 150px 0;
+
+ 
+
+}
+
+h2{
+    font-family: 'Barlow Semi Condensed' ;
+    font-size: 50px;
+    display: flex;;
+    box-sizing: border-box;
+    justify-content: center; 
+    align-items: center;     
+   margin: auto;
+   max-width: 50%;
+
+
+
+}
+
+.body{
+    display: flex;
+    font-family: 'Barlow Semi Condensed' ;
+    font-size: 30px;
+    box-sizing: border-box;
+    justify-content: center; 
+    align-items: center;     
+   margin: auto;
+   max-width: 50%;
+    
+    
+}
+
+

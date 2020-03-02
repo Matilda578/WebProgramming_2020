@@ -1,0 +1,13 @@
+h1, p {
+    font-family: Helvetica, sans-serif;
+    color: wheat;
+}
+html {
+    background-color: rgb(32, 46, 90);
+    display: flex;
+}
+
+.form1 {
+display: inline-flexbox;
+
+}
